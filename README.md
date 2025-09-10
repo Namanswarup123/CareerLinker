@@ -1,4 +1,4 @@
-<h1 align="center">FreeLynx</h1>
+<h1 align="center">CareerLinker</h1>
 
 
 <h3 align="center"A MERN Stack and Next.js based Freelancer Marketplace for Local Services with Secure
